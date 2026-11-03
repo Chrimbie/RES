@@ -1,0 +1,23 @@
+{
+  "cpu_thread_limit": "1",
+  "weights_identical": true,
+  "predictions_identical": true,
+  "accuracy_original": 0.98,
+  "accuracy_res": 0.98,
+  "samples": 450,
+  "timing_us_per_call": {
+    "1": {
+      "original_sklearn": 186.15,
+      "res_head": 10.92
+    },
+    "32": {
+      "original_sklearn": 190.51,
+      "res_head": 23.09
+    },
+    "450": {
+      "original_sklearn": 459.68,
+      "res_head": 198.36
+    }
+  },
+  "notes": "Historical measurement; original implementation compared to direct NumPy head. Excludes training and loading."
+}

@@ -1,0 +1,12 @@
+{
+  "training_examples": 4500,
+  "test_examples": 1500,
+  "source_accuracy_percent": 98,
+  "wrong_input_mapping_percent": 40.6,
+  "mapped_accuracy_percent": 98,
+  "widened_accuracy_percent": 98,
+  "changed_activation_accuracy_percent": 83.667,
+  "changed_skip_accuracy_percent": 97.733,
+  "random_receiver_accuracy_percent": 49.6,
+  "weights_unchanged": true
+}

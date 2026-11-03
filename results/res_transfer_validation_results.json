@@ -1,0 +1,12 @@
+{
+  "dataset": "sklearn digits",
+  "held_out": 450,
+  "original_accuracy": 0.9755555555555555,
+  "independent_process_accuracy": 0.9755555555555555,
+  "independent_process_exact_prediction_agreement": true,
+  "relocated_archive_exact_prediction_agreement": true,
+  "permuted_input_accuracy_without_adapter": 0.17777777777777778,
+  "permuted_input_accuracy_with_schema_adapter": 0.9755555555555555,
+  "corrupt_archive_rejected": true,
+  "no_training_in_destination": true
+}

@@ -1,0 +1,23 @@
+{
+  "dataset": "sklearn breast cancer Wisconsin diagnostic",
+  "samples": 569,
+  "features": 30,
+  "train_samples": 426,
+  "test_samples": 143,
+  "split_seed": 42,
+  "res_accuracy": 0.9790209790209791,
+  "baseline_logistic_accuracy": 0.986013986013986,
+  "confusion_matrix": [
+    [
+      52,
+      1
+    ],
+    [
+      2,
+      88
+    ]
+  ],
+  "transfer_prediction_agreement": 1,
+  "res_bytes": 65258,
+  "res_sha256": "1ed46bfd97616012a1ebe38e0eef6588ad4fd20891b10e67bd8a2ebc38144311"
+}
